@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @ajayitpath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Ajay
+👀 I’m interested in Full Stack Web Development, Clean Architecture, and DevOps practices
 
-<!---
-ajayitpath/ajayitpath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning advanced React patterns, ASP.NET Core, and system design
+
+💞️ I’m looking to collaborate on modern web applications and open-source backend APIs
+
+📫 How to reach me: ajayitpath@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love solving real-world problems with code and simplifying complex workflows
